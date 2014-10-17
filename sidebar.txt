@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wnb:home|Door43 (wnb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wnb|d43-wnb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wnb/archive/master.zip|d43-wnb.zip]]
+
+**Recent Changes**
+{{changes>ns = wnb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wnb|Ethnologue data]]
+
